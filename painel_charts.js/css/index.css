@@ -1,0 +1,137 @@
+
+  *{
+    font-family: 'Arial Black';
+  }
+
+  body {
+    margin: 10px;
+  }
+
+  .services{
+    width: 100%;
+  }
+
+  .cards{
+    display: flex;
+    align-items: center;
+  }
+
+  .content-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0.8;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 80px;
+    float: left;
+  }
+
+  .content-2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0.8;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .content-3{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0.8;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 80px;
+    float: left;
+  }
+
+  .content-4{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0.8;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 80px;
+    float: right;
+  }
+
+  .content-5{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 0.8;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 2px;
+    height: 80px;
+    float: right;
+  }
+
+  .content-1 h1{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .content-1 h2{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .content-3 h1{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .content-3 h2{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .content-4 h1{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .content-4 h2{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .content-5 h1{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .content-5 h2{
+    font-size: 14px;
+    margin: 2px;
+    padding: 2px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
